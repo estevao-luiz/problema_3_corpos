@@ -2,6 +2,8 @@
 
 Analisando dados de movimento e plotando gráficos envolvendo o movimento simultâneo de 3 corpos.
 
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=estevao-luiz)](https://github.com/estevao-luiz) -->
+
 ## Repo Content:
 
 1. [Exemplo de arquivo de entrada](#3body.in)
