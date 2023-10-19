@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 """Este código recebe um arquivo constando o comportamento inicial
 do movimento de três corpos e devolve outro arquivo com o movimento
 desses três corpos durante um dado tempo"""
