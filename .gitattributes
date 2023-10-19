@@ -1,2 +1,2 @@
-read_movement/* linguist-detectable
-*.python linguist-detectable=true
+* linguist-detectable
+read_movement/*.python linguist-detectable=true
