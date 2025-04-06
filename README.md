@@ -1,18 +1,3 @@
-## Problema do 3 corpos
-
-Analisando dados de movimento e plotando gráficos envolvendo o movimento simultâneo de 3 corpos.
-
-<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=estevao-luiz)](https://github.com/estevao-luiz) -->
-
-## Repo Content:
-
-1. [Exemplo de arquivo de entrada]
-2. [Código de leitura do movimento do 3 corpos]
-3. [Exemplo de arquivo de sáida]
-4. [Código para plotar os gráficos]
-5. [Exemplo de gráfico plotado]
-   
-
 # Problema dos Três Corpos
 
 Este repositório aborda o clássico **Problema dos Três Corpos** na mecânica celeste, implementando uma simulação numérica do movimento simultâneo de três corpos sob a ação da gravidade. Os dados gerados pela simulação são utilizados para plotar gráficos representando as trajetórias dos corpos ao longo do tempo.
